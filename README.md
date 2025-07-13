@@ -1,4 +1,4 @@
-# Heya
+# Heya I am Akshaansh
  A passionate developer, ML enthusiast, and system design explorer from India. Whether it's building websites, deploying ML models, or cracking algorithms — I'm always up for a challenge.<br><br>Currently diving deep into AI/ML, Full-stack development, and low-level systems, and I'm not stopping anytime soon. I'm building, learning, and contributing — one line of code at a time.
 
 
