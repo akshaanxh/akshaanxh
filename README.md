@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<h6 align="center">An endlessly curious mind driven by the thrill of building, breaking, and learning. I thrive on asking “what if?” and chasing it down with focused execution. Whether diving into new domains or refining the basics, I bring energy, consistency, and a deep hunger to grow. I see code not just as a tool, but as a canvas — and every project as a chance to push boundaries, question defaults, and create something meaningful. Always evolving, always exploring — one idea at a time.</h6>
+<h5 align="center">An endlessly curious mind driven by the thrill of building, breaking, and learning. I thrive on asking “what if?” and chasing it down with focused execution. Whether diving into new domains or refining the basics, I bring energy, consistency, and a deep hunger to grow. I see code not just as a tool, but as a canvas — and every project as a chance to push boundaries, question defaults, and create something meaningful. Always evolving, always exploring — one idea at a time.</h5>
 
 ###
 
@@ -35,6 +35,7 @@
   </a>
 </div>
 
+<p align="left"></p>
 ###
 
 <picture>
