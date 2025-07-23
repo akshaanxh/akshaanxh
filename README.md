@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://pin.it/4PYzZQWDm"  />
+  <img src="https://raw.githubusercontent.com/akshaanxh/akshaanxh/main/assets/a138k1.gif" height="200" alt="intro gif" />
 </div>
+
 
 ###
 
