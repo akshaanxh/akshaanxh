@@ -36,7 +36,7 @@
 </div>
 
 <p align="left"></p>
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshaanxh/akshaanxh/output/pacman-contribution-graph-dark.svg">
